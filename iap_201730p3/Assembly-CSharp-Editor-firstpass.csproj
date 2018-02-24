@@ -57,16 +57,16 @@
      <Compile Include="Assets\Plugins\UnityChannel\XiaomiSupport\Editor\XiaomiPackageNameExtension.cs" />
      <Compile Include="Assets\Plugins\UnityPurchasing\Editor\IAPButtonEditor.cs" />
  <Reference Include="Facebook.Unity">
- <HintPath>/Users/mohammed/Projects/iap_projects/iap_201730p3/Library/FacebookSDK/Facebook.Unity.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_unity_projects/iap_201730p3/Library/FacebookSDK/Facebook.Unity.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Arcade">
- <HintPath>/Users/mohammed/Projects/iap_projects/iap_201730p3/Library/FacebookSDK/Facebook.Unity.Arcade.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_unity_projects/iap_201730p3/Library/FacebookSDK/Facebook.Unity.Arcade.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>/Users/mohammed/Projects/iap_projects/iap_201730p3/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_unity_projects/iap_201730p3/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="FacebookNamedPipeClient">
- <HintPath>/Users/mohammed/Projects/iap_projects/iap_201730p3/Library/FacebookSDK/FacebookNamedPipeClient.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_unity_projects/iap_201730p3/Library/FacebookSDK/FacebookNamedPipeClient.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity201730p3/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -153,34 +153,34 @@
  <HintPath>/Applications/Unity201730p3/PlaybackEngines/Facebook/UnityEditor.Facebook.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Editor">
- <HintPath>/Users/mohammed/Projects/iap_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_unity_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
  </Reference>
  <Reference Include="Purchasing.Common">
- <HintPath>/Users/mohammed/Projects/iap_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/Bin/Purchasing.Common.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_unity_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/Bin/Purchasing.Common.dll</HintPath>
  </Reference>
  <Reference Include="Stores">
- <HintPath>/Users/mohammed/Projects/iap_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_unity_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
  </Reference>
  <Reference Include="Apple">
- <HintPath>/Users/mohammed/Projects/iap_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_unity_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
  </Reference>
  <Reference Include="Security">
- <HintPath>/Users/mohammed/Projects/iap_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/Bin/Security/live/Security.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_unity_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/Bin/Security/live/Security.dll</HintPath>
  </Reference>
  <Reference Include="FacebookStore">
- <HintPath>/Users/mohammed/Projects/iap_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/Bin/Facebook/FacebookStore.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_unity_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/Bin/Facebook/FacebookStore.dll</HintPath>
  </Reference>
  <Reference Include="Tizen">
- <HintPath>/Users/mohammed/Projects/iap_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_unity_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
  </Reference>
  <Reference Include="winrt">
- <HintPath>/Users/mohammed/Projects/iap_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_unity_projects/iap_201730p3/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
  </Reference>
  <Reference Include="ChannelPurchase">
- <HintPath>/Users/mohammed/Projects/iap_projects/iap_201730p3/Assets/Plugins/UnityChannel/ChannelPurchase.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_unity_projects/iap_201730p3/Assets/Plugins/UnityChannel/ChannelPurchase.dll</HintPath>
  </Reference>
  <Reference Include="UnityStore">
- <HintPath>/Users/mohammed/Projects/iap_projects/iap_201730p3/Assets/Plugins/UnityChannel/UnityStore.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_unity_projects/iap_201730p3/Assets/Plugins/UnityChannel/UnityStore.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>/Users/mohammed/Library/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
